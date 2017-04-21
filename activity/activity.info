@@ -1,0 +1,7 @@
+[Activity]
+name = JAMTank
+bundle_id = org.laptop.JAMtank
+exec = sugar-activity SugarJAMTank.JAMTank
+icon = JAMTank
+activity_version = 3
+show_launcher = yes
